@@ -1,5 +1,5 @@
 first Git lab. learning commit, push, pull
 --- Summary ---
-Learned Git basics with branching and merging.
+Learned Git basics: clone, commit, push, pull; branching & merging.
 --- Insights ---
 Committing often makes it easier to track work.
